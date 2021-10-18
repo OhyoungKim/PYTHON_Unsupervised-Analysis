@@ -1,2 +1,2 @@
 # PYTHON_Unsupervised-Analysis
-Implemented unsupervised machine learning algorithms and interpret their results
+Implemented unsupervised machine learning algorithms and interpreted their results with the perspective of the Big Five personality traits as well as the Hult DNA
